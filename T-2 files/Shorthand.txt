@@ -1,0 +1,36 @@
+{ Short Hand:- }
+
+background: pink url("") repeat-x (or we can also use y, no-repeat,repeat)
+
+background-attatchment: scroll/fixed;
+
+background-position: top/bottom/left/right/center/top left/bottom left;
+
+background-size: cover/contain;
+
+background: pink url("a.png") no-repeat fixed top/cover;
+
+
+{ Text MAnipulation Properties:- }
+
+text-indent: positive/negative;
+eg:- text-indent: 20px/20pt/-20px/-20pt;
+
+text-decoration: underline/overline/linethrough/none;
+
+text-transform: uppercase/lowercase/capitalise;
+
+font-variant: small-caps/normal;
+
+
+{ CSS Borders:- }
+
+border-style: double/dashed/solid/none;
+
+border-width: px/pt/cm/em/thin/thick/medium;
+
+border-color: red/#ff0000/rgb(255,0,0)
+
+
+{ Pseudo class:- }
+

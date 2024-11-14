@@ -1,0 +1,9 @@
+colors:-
+
+Hexadecimal (Hex values) #RRGGBB #00ff11
+                         #RGB    #000
+
+RGB(RRR,GGG,BBB)
+RGB(0125,255)
+RGBA (0,0,255,0.3)
+here, A and its value is used to change the opacity of the color.
